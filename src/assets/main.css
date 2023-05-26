@@ -1,0 +1,13 @@
+@import './reset.css';
+
+  body {
+    background-color: #212534;
+    font-family: 'Fira Sans', sans-serif;
+  }
+
+  #app {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
